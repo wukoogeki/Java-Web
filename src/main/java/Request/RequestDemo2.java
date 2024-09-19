@@ -8,10 +8,9 @@ import servlet.HelloServlet;
 
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.Enumeration;
 
 @WebServlet("/Request2")
-public class RequestDmeo2 extends HelloServlet {
+public class RequestDemo2 extends HelloServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         response.setContentType("text/html;charset=utf-8");
         PrintWriter out = response.getWriter();

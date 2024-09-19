@@ -17,5 +17,7 @@
 <a href="Request.jsp">233</a>
 <br>
 <a href="/Request2">Request 练习</a>
+<br>
+<img src="/captcha">
 </body>
 </html>

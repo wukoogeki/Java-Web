@@ -11,6 +11,6 @@
     <title>Request</title>
 </head>
 <body>
-<a>666</a>
+<img src="/captcha" alt="213">
 </body>
 </html>
